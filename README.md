@@ -1,1 +1,1 @@
-# python-ile-cbs-final-devi
+# python-ile-cbs-final-odevi
