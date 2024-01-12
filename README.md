@@ -1,5 +1,5 @@
 # python-ile-cbs-final-odevi
-final odevi kapsamında   QGIS programi uzerinden python kodlamasıyla clip islemi gerceklestirilmistir.
+final odevi kapsaminda   QGIS programi uzerinden python kodlamasiyla clip islemi gerceklestirilmistir.
 Chatgpt yardimiyla visual studio code uzerinden nasil bir kodlama yapilmasi gerektigi soruldu.
 chatgpt'nin verdigi kod su sekildeydi;
 # Import necessary QGIS modules
@@ -40,9 +40,9 @@ if clipped_layer.isValid():
     print('Clipping process successful.')
 else:
     print('Error during clipping process. Please check your input data and try again.')
-Bu kod vsc ile yazildi. input, clip yapilacak dosya ve output yolları güncellendi.
-input dosyası ankara ilce siniri verisinden,
-clip yapilacak dosya ise ayni verinin (ankara ilce siniri) QGIS uzerinden calisma alani adi altinda olustulan poligon katmani ve bu katmanin sayisallastirilmasindan olusmustur.
+Bu kod vsc ile yazildi. input, clip yapilacak dosya ve output yollari güncellendi.
+input dosyasi ankara ilce siniri verisinden,
+clip yapilacak dosya ise ayni verinin (ankara ilce siniri) QGIS uzerinden calisma alani adi altinda olusturulan poligon katmani ve bu katmanin sayisallastirilmasindan olusmustur.
 daha sonra vsc ile hazırlanan kod QGIS uzerinden calistirildi ve islem basariyla gerceklesti.
 
 
